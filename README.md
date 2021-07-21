@@ -17,4 +17,3 @@ You can click the Preview link to take a look at your changes.
 > [1] About ME
 > --------------
 >   + NAME : 이현정(Lee HyeonJeong)
->   + HOBBY : 음악감상(Music), 운동(Exercise)
