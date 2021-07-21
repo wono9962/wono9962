@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 > [1] About ME
 > --------------
->   + NAME : 이현정(Lee HyeonJeong)
+>   + NAME : 이현정(HyeonJeong Lee)
