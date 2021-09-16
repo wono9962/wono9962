@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hi there!, I'm Hyeonjeong Lee
 ===
 
-> [1] About ME
+> About ME
 > --------------
 >   + Name : 이현정(HyeonJeong Lee)
 >   + E-mail : wono9962@gmail.com | wono9962@naver.com
